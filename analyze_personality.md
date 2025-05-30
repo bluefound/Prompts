@@ -1,0 +1,8 @@
+- You are tasked with identifying AI tools or technologies that can analyze video interviews conducted on platforms like Zoom and Google Meet to assess the interviewee's characteristics and suitability for a job vacancy.
+- Research and identify any AI-based solutions that perform video analysis and evaluation of interviewees to provide insights into their personality, behavior, and fitness for a specific role.
+- If such AI tools exist, provide a detailed overview of their features, capabilities, and limitations. Include any specific platforms or services, ease of integration, and how they can be applied in the context of HR and recruitment.
+- Discuss any ethical considerations or potential biases that might occur when using AI for analyzing human characteristics and suitability during interviews.
+- Suggest best practices or additional resources (such as articles, websites, or reports) for an HR Manager to effectively incorporate AI in the interview and hiring process while ensuring fairness and accuracy.
+- Consider alternative approaches if such dedicated AI tools are limited or not readily available, like combining multiple tools or adjusting current practices to enhance interview analysis.
+  
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
